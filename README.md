@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roger Ccopa
 - 👀 I’m interested in computer programming
-- 🌱 I’m currently coding in .net C#
+- 🌱 I’m currently coding in .Net C# and ColdFusion
 - 📫 How to reach me: rogerccopaAtyahoo.com
 
 <!---
